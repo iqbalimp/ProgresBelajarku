@@ -9,3 +9,5 @@ Pada Cloud Computing Learning Path yang diadakan oleh Bangkit Academy Batch 2 20
 
 **Pada tanggal 14-08-2023**
 - Saya akan menghadiri Onboarding MSIB Kampus Merdeka
+
+**Iniadalh tambahan dari branch Development**
